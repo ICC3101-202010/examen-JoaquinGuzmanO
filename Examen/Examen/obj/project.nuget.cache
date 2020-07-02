@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nwnFrtsxgwyNN0fdatalNfxKf6D8nFT08AecJsUuAHCmH02EPMNzaJkwrnJOCbTy5Due5vnbfCeqTiJVf6BKvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Joaco Guzman\\Desktop\\examen-JoaquinGuzmanO\\Examen\\Examen\\Examen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joaco Guzman\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

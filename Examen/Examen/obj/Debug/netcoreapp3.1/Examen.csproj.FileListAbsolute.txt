@@ -1,0 +1,13 @@
+C:\Users\Joaco Guzman\Desktop\examen-JoaquinGuzmanO\Examen\Examen\obj\Debug\netcoreapp3.1\Examen.csprojAssemblyReference.cache
+C:\Users\Joaco Guzman\Desktop\examen-JoaquinGuzmanO\Examen\Examen\obj\Debug\netcoreapp3.1\Examen.AssemblyInfoInputs.cache
+C:\Users\Joaco Guzman\Desktop\examen-JoaquinGuzmanO\Examen\Examen\obj\Debug\netcoreapp3.1\Examen.AssemblyInfo.cs
+C:\Users\Joaco Guzman\Desktop\examen-JoaquinGuzmanO\Examen\Examen\obj\Debug\netcoreapp3.1\Examen.csproj.CoreCompileInputs.cache
+C:\Users\Joaco Guzman\Desktop\examen-JoaquinGuzmanO\Examen\Examen\bin\Debug\netcoreapp3.1\Examen.exe
+C:\Users\Joaco Guzman\Desktop\examen-JoaquinGuzmanO\Examen\Examen\bin\Debug\netcoreapp3.1\Examen.deps.json
+C:\Users\Joaco Guzman\Desktop\examen-JoaquinGuzmanO\Examen\Examen\bin\Debug\netcoreapp3.1\Examen.runtimeconfig.json
+C:\Users\Joaco Guzman\Desktop\examen-JoaquinGuzmanO\Examen\Examen\bin\Debug\netcoreapp3.1\Examen.runtimeconfig.dev.json
+C:\Users\Joaco Guzman\Desktop\examen-JoaquinGuzmanO\Examen\Examen\bin\Debug\netcoreapp3.1\Examen.dll
+C:\Users\Joaco Guzman\Desktop\examen-JoaquinGuzmanO\Examen\Examen\bin\Debug\netcoreapp3.1\Examen.pdb
+C:\Users\Joaco Guzman\Desktop\examen-JoaquinGuzmanO\Examen\Examen\obj\Debug\netcoreapp3.1\Examen.dll
+C:\Users\Joaco Guzman\Desktop\examen-JoaquinGuzmanO\Examen\Examen\obj\Debug\netcoreapp3.1\Examen.pdb
+C:\Users\Joaco Guzman\Desktop\examen-JoaquinGuzmanO\Examen\Examen\obj\Debug\netcoreapp3.1\Examen.genruntimeconfig.cache
