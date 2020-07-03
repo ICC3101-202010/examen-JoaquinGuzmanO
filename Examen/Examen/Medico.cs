@@ -13,14 +13,26 @@ namespace Examen
             this.PuntosExperiencia = PuntosExperiencia;
         }
 
-        public void curar()
+        public void curar(Jugador jugador)
         {
+            jugador.Sanar();
             Console.WriteLine("Quedaste sanado, ve a jugar");
         }
 
-        public void evaluar()
+        public void evaluar(List<Jugador> jugadores)
         {
-            Console.WriteLine("Te estoy evaluando...");
+            Console.WriteLine("Estoy evaluando...");
+            foreach(var jugador in jugadores)
+            {
+                if(jugador.getLesionado() == 1)
+                {
+                    Console.WriteLine("El jugador " + jugador.getName() + " Esta lesionado");
+                }
+                else
+                {
+                    Console.WriteLine("No hay jugadores lesionados");
+                }
+            }
         }
         public int getPuntosExperiencia()
         {

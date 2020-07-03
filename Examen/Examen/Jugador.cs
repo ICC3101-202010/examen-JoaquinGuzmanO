@@ -25,6 +25,10 @@ namespace Examen
             lesionado = 1;
             Console.WriteLine(name+": Me he lesionado");
         }
+        public void Sanar()
+        {
+            lesionado = 0;
+        }
         public int getPuntosAtaque()
         {
             return PuntosAtaque;

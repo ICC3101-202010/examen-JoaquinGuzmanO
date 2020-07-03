@@ -22,5 +22,10 @@ namespace Examen
             equipo1.CambioLesion();
             equipo2.CambioLesion();
         }
+        public void VerLesiones()
+        {
+            equipo1.AnalisarLesiones();
+            equipo2.AnalisarLesiones();
+        }
     }
 }

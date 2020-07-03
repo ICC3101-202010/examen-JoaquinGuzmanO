@@ -67,6 +67,20 @@ namespace Examen
                 }
             }
         }
+        public void CurarJugador()
+        {
+            foreach (var jugador in jugadores)
+            {
+                if (jugador.getLesionado() == 1)
+                {
+                    medico.curar(jugador);
+                }
+            }
+        }
+        public void AnalisarLesiones()
+        {
+            medico.evaluar(jugadores);
+        }
         public void Informacion()
         {
             Console.WriteLine("Informacion equipo: " + name + "\nEl entrenador es: "+entrenador.getName()+"\nEl Medico es: "
